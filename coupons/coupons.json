@@ -4,6 +4,7 @@
     "partner": "EDEKA",
     "multiplier": "3x",
     "description": "auf Bier!*",
+    "descLong": "Dieser Coupon ist nur einmal einlösbar!",
     "validUntil": "26.10.2025",
     "logoName": "edeka",
     "activated": false,
